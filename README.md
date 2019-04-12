@@ -1,4 +1,4 @@
-# Person Detection using RGB-D infomation 
+# Person Detection using RGB-D information 
 Generally, in order to recognize the behavior of pedestrians in CCTV images, it is necessary to detect objects from the images.
 
 However, occlusion problems arise due to the loss of three-dimensional information caused by projecting a three-dimensional real world onto a two-dimensional image. 
@@ -12,3 +12,9 @@ Video surveillance, CCTV, RGB-D, Object Detection, Segmentation, Depth Map
 
 # Result 
 ![result1](https://user-images.githubusercontent.com/18207989/56009224-03745800-5d1a-11e9-9599-ee97c93f65de.JPG)
+
+# Implement c++
+
+# Using Camera 1, Camera 2
+
+# Based on Computer Vision (OpenCV)
